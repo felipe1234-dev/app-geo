@@ -7,4 +7,4 @@ App para obter a localização do cliente usando [Angular](https://github.com/an
 ![](./media/demo.png)
 
 ## Website
-* [AppGeo](https://www.app-geo.herokuapp.com)
+* [AppGeo](https://www.app-geo-uninter.herokuapp.com)
